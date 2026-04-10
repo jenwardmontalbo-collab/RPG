@@ -1,5 +1,6 @@
 
 public class World {
-	//this is world
+	private String name;
+	private String description;
 
 }
