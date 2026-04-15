@@ -1,5 +1,11 @@
 
 public class World {
-	//this is world
+	private String name;
+	private String description;
+	public World(String name, String description) {
+		this.name = name;
+		this.description = description;
+		
+	}
 
 }
