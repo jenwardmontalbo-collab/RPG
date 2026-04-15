@@ -5,7 +5,8 @@ public class World {
 	public World(String name, String description) {
 		this.name = name;
 		this.description = description;
-		//this is a comment
+		//this is a comment made by Mr. Jen
+		
 		
 	}
 
