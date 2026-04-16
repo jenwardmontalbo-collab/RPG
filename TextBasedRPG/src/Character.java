@@ -4,5 +4,6 @@ public class Character {
 	//Evan 
 	//Evan loves feet
 	//evan loves damin
+	//사나이 
 	
 }
