@@ -1,5 +1,6 @@
 
 public class Weapon {
+	//Evan is here
 	private String name;
 	private String type;
 	
